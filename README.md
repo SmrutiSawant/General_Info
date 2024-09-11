@@ -1,3 +1,3 @@
 # General_Info
-<h1>Hello Everyone</h1>
+<h1>Hi Everyone</h1>
 <p>Starting with something new...</p>
